@@ -1,3 +1,4 @@
 Name: Gustavo
 Age : 26
 Bootcamp: Ironhack
+Color favorito: Negro como mi alma
